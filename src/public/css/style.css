@@ -41,15 +41,18 @@ body {
   color: white;
 }
 
-.create-user-container {
+.create-user-container,
+.update-user-container {
   padding: 15px;
 }
 
-.create-user-container label {
+.create-user-container label,
+.update-user-container label {
   display: block;
 }
 
-.create-user-container .btn-submit {
+.create-user-container .btn-submit,
+.update-user-container .update-save-btn {
   margin-top: 15px;
   cursor: pointer;
 }
