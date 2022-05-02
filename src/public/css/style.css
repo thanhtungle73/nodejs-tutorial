@@ -52,7 +52,8 @@ body {
 }
 
 .create-user-container .btn-submit,
-.update-user-container .update-save-btn {
+.update-user-container .update-save-btn,
+.save-btn {
   margin-top: 15px;
   cursor: pointer;
 }
